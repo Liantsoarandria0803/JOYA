@@ -1,0 +1,17 @@
+{
+    "produit1":{
+        "nom":"Ceinture bouclé dorée fine",
+        "image":"./../img/ceinture-boucle-doree-fine-.jpg",
+        "price":"15,00 €"
+    },
+    "produit2":{
+        "nom":"Ceinture bouclé dorée à l'ancienne",
+        "image":"./../img/ceinture-boucle-doree-a-l-ancienne-.jpg",
+        "price":"15,00 €"
+    },
+    "produit3":{
+        "nom":"Ceinture bouclé en corde",
+        "image":"./../img/ceinture-dore-en-corde-.jpg",
+        "price":"10,00 €"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "produit1":{
+    "nom":"Sandales doubles",
+    "image":"./asset/img/sandales-double-brides-beige-.jpg",
+    "price":"69,00 €"
+
+},
+    "produit2":{
+    "nom":"Sandale en raphia camel",
+    "image":"./asset/img/sandale-en-raphia-camel-.jpg",
+    "price":"69,00 €"   
+},
+    "produit3":{
+        "nom":"Sandales Mi Mai Elvy blanc",
+        "image":"./asset/img/sandales-mi-mai-elvy-blanc.jpg",
+        "price":"149,00 €"
+    },
+    "produit4":{
+        "nom":"Sandales Mi Mai Capri nude",
+        "image":"./asset/img/sandales-mi-mai-capri-nude.jpg",
+        "price":"149,00 €"
+    }
+}

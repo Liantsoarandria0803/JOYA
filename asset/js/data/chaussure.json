@@ -1,0 +1,27 @@
+{
+    "produit1":{
+        "nom":"Sandales doubles",
+        "image":"./../img/sandales-double-brides-beige-.jpg",
+        "price":"69,00 €"
+    },
+    "produit2":{
+        "nom":"sandales à talon dorées",
+        "image":"./../img/sandales-a-talon-dorees.jpg",
+        "price":"89,00 €"
+    },
+    "produit3":{
+        "nom":"Sandales mi mai capri noir ",
+        "image":"./../img/sandales-mi-mai-capri-noir-.jpg",
+        "price":"119,00 €"
+    },
+    "produit4":{
+        "nom":"Sandales mi mai capri nude ",
+        "image":"./../img/sandales-mi-mai-capri-nude.jpg",
+        "price":"129,00 €"
+    },
+    "produit5":{
+        "nom":"sneakers victoria blanc rose et jaune",
+        "image":"./../img/sneakers-victoria-blanc-rose-et-jaune.jpg",
+        "price":"56,50 €"
+    }
+}
