@@ -3,6 +3,7 @@ let arrayNav=document.querySelectorAll('.element')
 arrayNav.forEach( bouton => {
     bouton.addEventListener('click', function(){
         if(this.id=="chaussure"){
+            document.querySelector(".special").textContent="Chaussures";
             fetch("../js/data/chaussure.json")
    .then(response => response.json())
    .then(data => {
@@ -503,6 +504,7 @@ arrayNav.forEach( bouton => {
                         document.querySelector('.confirm').onclick=function(){
                          
                            panier=panier+1;
+                           document.getElementById("panierStock").innerText
                           
                            // Mettre à jour le contenu de la div.infoprod
                            document.querySelector('.main').innerHTML =`
